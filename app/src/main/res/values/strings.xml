@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mainactivity</string>
+    <string name="emali">Enter Email</string>
+    <string name="re_emali">Enter Emali</string>
+    <string name="password">Enter Password</string>
+    <string name="re_password">Reenter password</string>
+    <string name="btnsubmit">SUBMIT</string>
+    <string name="btncancel">CANCEL</string>
+</resources>
